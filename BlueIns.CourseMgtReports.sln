@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "BlueIns.CourseMgtReports", "BlueIns.CourseMgtReports\BlueIns.CourseMgtReports.rptproj", "{71B0C400-577D-4102-A188-4A51D1D5B1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71B0C400-577D-4102-A188-4A51D1D5B1F5}.Debug|Default.ActiveCfg = Debug
+		{71B0C400-577D-4102-A188-4A51D1D5B1F5}.Debug|Default.Build.0 = Debug
+		{71B0C400-577D-4102-A188-4A51D1D5B1F5}.Debug|Default.Deploy.0 = Debug
+		{71B0C400-577D-4102-A188-4A51D1D5B1F5}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{71B0C400-577D-4102-A188-4A51D1D5B1F5}.DebugLocal|Default.Build.0 = DebugLocal
+		{71B0C400-577D-4102-A188-4A51D1D5B1F5}.Release|Default.ActiveCfg = Release
+		{71B0C400-577D-4102-A188-4A51D1D5B1F5}.Release|Default.Build.0 = Release
+		{71B0C400-577D-4102-A188-4A51D1D5B1F5}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4524BE7-BD7B-4FF5-9565-5F13223B8263}
+	EndGlobalSection
+EndGlobal
